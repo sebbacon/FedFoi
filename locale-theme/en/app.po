@@ -191,7 +191,7 @@ msgid "Public authorities - {{description}}"
 msgstr "Public agencies - {{description}}"
 
 msgid "Public authorities"
-msgstr "Public agencies"
+msgstr "Agencies"
           
               
               
