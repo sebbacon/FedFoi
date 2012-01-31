@@ -11,5 +11,5 @@ PublicBodyCategories.add(:en, [
     "Categories",
         [ "executive_agencies", "US federal executive departments", "a federal executive deparment of the United States"],
         [ "military", "Military departments", "a military deparment within the Department of Defense"],
-        [ "other", "Independent agencies of the US government", "an independent agency of the United States government"]
+        [ "others", "Independent agencies of the US government", "an independent agency of the United States government"]
 ])
