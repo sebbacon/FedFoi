@@ -8,9 +8,8 @@
 # ])
 
 PublicBodyCategories.add(:en, [
-    "Silly ministries",
-        [ "useless_agency", "Useless ministries", "a useless ministry" ],
-        [ "lonely_agency", "Lonely agencies", "a lonely agency"],
-    "Popular agencies",
-        [ "popular_agency", "Popular agencies", "a lonely agency"]
+    "Categories",
+        [ "executive_agencies", "US federal executive departments", "a federal executive deparment of the United States"],
+        [ "military", "Military departments", "a military deparment within the Department of Defense"],
+        [ "other", "Independent agencies of the US government", "an independent agency of the United States government"]
 ])

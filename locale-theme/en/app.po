@@ -1,7 +1,246 @@
-# Your theme's locale files will override the core locale files.  This
-# is a good place to put both translations specific to your theme, and
-# "translations" of the core English words (e.g. you might want to
-# call FOI "RTI" throughougout, like this:
+msgid "<p>Thank you! We'll look into what happened and try and fix it up.</p><p>If the error was a delivery failure, and you can find an up to date FOI email address for the authority, please tell us using the form below.</p>"
+msgstr "<p>Thank you! We'll look into what happened and try and fix it up.</p><p>If the error was a delivery failure, and you can find an up to date FOI email address for the agency, please tell us using the form below.</p>"
 
-msgid "Make and browse Freedom of Information (FOI) requests"
-msgstr "Make and browse Right to Know (RTI) requests"
+msgid "If you have not done so already, please write a message below telling the authority that you have withdrawn your request. Otherwise they will not know it has been withdrawn."
+msgstr "If you have not done so already, please write a message below telling the agency that you have withdrawn your request. Otherwise they will not know it has been withdrawn."
+
+msgid "View authorities"
+msgstr "View agencies"
+
+msgid "Public authorities"
+msgstr "Agencies"
+
+msgid "Found {{count}} public bodies {{description}}"
+msgstr "Found {{count}} agencies {{description}}"
+
+
+msgid "Only the authority can reply to this request, but there is no "From" address to check against"
+msgstr "Only the agency can reply to this request, but there is no "From" address to check against"
+
+msgid "Only the authority can reply to this request, and I don't recognise the address this reply was sent from"
+msgstr "Only the agency can reply to this request, and I don't recognise the address this reply was sent from"
+
+msgid "Only the authority can reply to this request, but there is no "From" address to check against"
+msgstr "Only the agency can reply to this request, but there is no "From" address to check against"
+
+msgid "Only the authority can reply to this request, and I don't recognise the address this reply was sent from"
+msgstr "Only the agency can reply to this request, and I don't recognise the address this reply was sent from"
+
+msgid "'{{link_to_authority}}', a public authority"
+msgstr "'{{link_to_authority}}', a federal agency"
+
+msgid "A public authority"
+msgstr "A federal agency"
+
+msgid "To be emailed about requests made using {{site_name}} to the public authority '{{public_body_name}}'"
+msgstr "To be emailed about requests made using {{site_name}} to the federal agency '{{public_body_name}}'"
+
+msgid "<strong>Thank</strong> the public authority or "
+msgstr "<strong>Thank</strong> the federal agency or "
+
+msgid " Ideas on what <strong>other documents to request</strong> which the authority may hold. "
+msgstr " Ideas on what <strong>other documents to request</strong> which the agency may hold. "
+
+msgid "Select the authority to write to"
+msgstr "Select the agency to write to"
+
+msgid "1. Select an authority"
+msgstr "1. Select an agency"
+
+msgid ""
+"First, type in the <strong>name of the UK public authority</strong> you'd \n"
+"           <br>like information from. <strong>By law, they have to respond</strong>\n"
+"           (<a href=\"%s\">why?</a>)."
+msgstr ""
+"First, type in the <strong>name of the US federal agency</strong> you'd \n"
+"           <br>like information from. <strong>By law, they have to respond</strong>\n"
+"           (<a href=\"%s\">why?</a>)."
+
+msgid "Select one to see more information about the authority."
+msgstr "Select one to see more information about the agency."
+
+msgid "The authority would like to / has <strong>responded by post</strong> to this request."
+msgstr "The agency would like to / has <strong>responded by post</strong> to this request."
+
+msgid ""
+"The authority say that they <strong>need a postal\n"
+"            address</strong>, not just an email, for it to be a valid FOI request"
+msgstr ""
+"The agency say that they <strong>need a postal\n"
+"            address</strong>, not just an email, for it to be a valid FOI request"
+
+msgid "The authority only has a <strong>paper copy</strong> of the information."
+msgstr "The agency only has a <strong>paper copy</strong> of the information."
+
+msgid "You want to <strong>give your postal address</strong> to the authority in private."
+msgstr "You want to <strong>give your postal address</strong> to the agency in private."
+
+msgid "Special note for this authority!"
+msgstr "Special note for this agency!"
+
+msgid "The authority do <strong>not have</strong> the information <small>(maybe they say who does)"
+msgstr "The agency do <strong>not have</strong> the information <small>(maybe they say who does)"
+
+msgid "Last authority viewed: "
+msgstr "Last agency viewed: "
+
+msgid "Waiting for the public authority to reply"
+msgstr "Waiting for the federal agency to reply"
+
+msgid "The public authority does not have the information requested"
+msgstr "The federal agency does not have the information requested"
+
+msgid "The request was refused by the public authority"
+msgstr "The request was refused by the federal agency"
+
+msgid "The public authority would like part of the request explained"
+msgstr "The federal agency would like part of the request explained"
+
+msgid "The public authority would like to / has responded by post"
+msgstr "The federal agency would like to / has responded by post"
+
+msgid "Waiting for the public authority to complete an internal review of their handling of the request"
+msgstr "Waiting for the federal agency to complete an internal review of their handling of the request"
+
+msgid "Response from a public authority"
+msgstr "Response from a federal agency"
+
+msgid "A public authority"
+msgstr "A federal agency"
+
+msgid "One public authority found"
+msgstr "One federal agency found"
+
+msgid "<a href=\"%s\">Are we missing a public authority?</a>."
+msgstr "<a href=\"%s\">Are we missing a federal agency?</a>."
+
+msgid "Follow this authority"
+msgstr "Follow this agency"
+
+msgid "There is %d person following this authority", "There are %d people following this agency", follower_count
+msgstr "There is %d person following this agency", "There are %d people following this agency", follower_count
+
+msgid "More about this authority"
+msgstr "More about this agency"
+
+msgid "Home page of authority"
+msgstr "Home page of agency"
+
+msgid "You can only request information about the environment from this authority."
+msgstr "You can only request information about the environment from this agency."
+
+msgid ""
+"Freedom of Information law does not apply to this authority, so you cannot make\n"
+"            a request to it."
+msgstr ""
+"Freedom of Information law does not apply to this agency, so you cannot make\n"
+"            a request to it."
+
+msgid "This authority no longer exists, so you cannot make a request to it."
+msgstr "This agency no longer exists, so you cannot make a request to it."
+
+msgid "For an unknown reason, it is not possible to make a request to this authority."
+msgstr "For an unknown reason, it is not possible to make a request to this agency."
+
+msgid "The search index is currently offline, so we can't show the Freedom of Information requests that have been made to this authority."
+msgstr "The search index is currently offline, so we can't show the Freedom of Information requests that have been made to this agency."
+
+msgid "Select one to see more information about the authority."
+msgstr "Select one to see more information about the agency."
+
+msgid "{{site_name}} sends new requests to <strong>{{request_email}}</strong> for this authority."
+msgstr "{{site_name}} sends new requests to <strong>{{request_email}}</strong> for this agency."
+
+msgid "Freedom of Information law no longer applies to this authority.Follow up messages to existing requests are sent to "
+msgstr "Freedom of Information law no longer applies to this agency. Follow up messages to existing requests are sent to "
+
+msgid "We do not have a working request email address for this authority."
+msgstr "We do not have a working req uest email address for this agency."
+
+msgid "authorities"
+msgstr "agencies"
+
+msgid "messages from authorities"
+msgstr "messages from agencies"
+
+msgid "Search Freedom of Information requests, public authorities and users"
+msgstr "Search Freedom of Information requests, public agencies and users"
+
+msgid "authorities"
+msgstr "agencies"
+
+msgid "messages from authorities"
+msgstr "messages from agencies"
+
+msgid "Public authorities {{start_count}} to {{end_count}} of {{total_count}}"
+msgstr "Public agencies {{start_count}} to {{end_count}} of {{total_count}}"
+
+msgid "View authorities"
+msgstr "View agencies"
+
+msgid "{{site_name}} covers requests to {{number_of_authorities}} authorities, including:"
+msgstr "{{site_name}} covers requests to {{number_of_authorities}} agencies, including:"
+
+msgid "Browse all authorities..."
+msgstr "Browse all agencies..."
+
+msgid "List of all authorities (CSV)"
+msgstr "List of all agencies (CSV)"
+
+msgid "Public authorities - {{description}}"
+msgstr "Public agencies - {{description}}"
+
+msgid "Public authorities"
+msgstr "Public agencies"
+          
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+        
