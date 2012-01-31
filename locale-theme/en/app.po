@@ -192,55 +192,13 @@ msgstr "Public agencies - {{description}}"
 
 msgid "Public authorities"
 msgstr "Agencies"
-          
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-        
+
+msgid ""
+"Make a new<br/>\n"
+"        <strong>Freedom <span>of</span><br/>\n"
+"        Information<br/>\n"
+"        request</strong>"
+msgstr ""
+"        <strong>FOIA <span>the</span><br/>\n"
+"        Federal<br/>\n"
+"        Government</strong>"
