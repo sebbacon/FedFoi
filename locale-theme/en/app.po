@@ -197,3 +197,5 @@ msgstr ""
 "        Federal<br/>\n"
 "        Government</strong>"
 
+msgid "'Crime statistics by ward level for Wales'"
+msgstr "'Total money spent on cookies in 2009'"
