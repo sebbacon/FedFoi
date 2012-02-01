@@ -14,14 +14,8 @@ msgid "Found {{count}} public bodies {{description}}"
 msgstr "Found {{count}} agencies {{description}}"
 
 
-msgid "Only the authority can reply to this request, but there is no "From" address to check against"
-msgstr "Only the agency can reply to this request, but there is no "From" address to check against"
-
-msgid "Only the authority can reply to this request, and I don't recognise the address this reply was sent from"
-msgstr "Only the agency can reply to this request, and I don't recognise the address this reply was sent from"
-
-msgid "Only the authority can reply to this request, but there is no "From" address to check against"
-msgstr "Only the agency can reply to this request, but there is no "From" address to check against"
+msgid "Only the authority can reply to this request, but there is no \"From\" address to check against"
+msgstr "Only the agency can reply to this request, but there is no \"From\" address to check against"
 
 msgid "Only the authority can reply to this request, and I don't recognise the address this reply was sent from"
 msgstr "Only the agency can reply to this request, and I don't recognise the address this reply was sent from"
@@ -99,9 +93,6 @@ msgstr "Waiting for the federal agency to complete an internal review of their h
 msgid "Response from a public authority"
 msgstr "Response from a federal agency"
 
-msgid "A public authority"
-msgstr "A federal agency"
-
 msgid "One public authority found"
 msgstr "One federal agency found"
 
@@ -111,8 +102,10 @@ msgstr "<a href=\"%s\">Are we missing a federal agency?</a>."
 msgid "Follow this authority"
 msgstr "Follow this agency"
 
-msgid "There is %d person following this authority", "There are %d people following this agency", follower_count
-msgstr "There is %d person following this agency", "There are %d people following this agency", follower_count
+msgid "There is %d person following this agency"
+msgid_plural "There are %d people following this agency"
+msgstr[0] ""
+msgstr[1] ""
 
 msgid "More about this authority"
 msgstr "More about this agency"
@@ -139,9 +132,6 @@ msgstr "For an unknown reason, it is not possible to make a request to this agen
 msgid "The search index is currently offline, so we can't show the Freedom of Information requests that have been made to this authority."
 msgstr "The search index is currently offline, so we can't show the Freedom of Information requests that have been made to this agency."
 
-msgid "Select one to see more information about the authority."
-msgstr "Select one to see more information about the agency."
-
 msgid "{{site_name}} sends new requests to <strong>{{request_email}}</strong> for this authority."
 msgstr "{{site_name}} sends new requests to <strong>{{request_email}}</strong> for this agency."
 
@@ -160,17 +150,8 @@ msgstr "messages from agencies"
 msgid "Search Freedom of Information requests, public authorities and users"
 msgstr "Search Freedom of Information requests, public agencies and users"
 
-msgid "authorities"
-msgstr "agencies"
-
-msgid "messages from authorities"
-msgstr "messages from agencies"
-
 msgid "Public authorities {{start_count}} to {{end_count}} of {{total_count}}"
 msgstr "Public agencies {{start_count}} to {{end_count}} of {{total_count}}"
-
-msgid "View authorities"
-msgstr "View agencies"
 
 msgid "{{site_name}} covers requests to {{number_of_authorities}} authorities, including:"
 msgstr "{{site_name}} covers requests to {{number_of_authorities}} agencies, including:"
@@ -184,9 +165,6 @@ msgstr "List of all agencies (CSV)"
 msgid "Public authorities - {{description}}"
 msgstr "Public agencies - {{description}}"
 
-msgid "Public authorities"
-msgstr "Agencies"
-
 msgid ""
 "Make a new<br/>\n"
 "        <strong>Freedom <span>of</span><br/>\n"
@@ -194,7 +172,7 @@ msgid ""
 "        request</strong>"
 msgstr ""
 "        <strong>FOIA <span>the</span><br/>\n"
-"        Federal<br/>\n"
+"        US Federal<br/>\n"
 "        Government</strong>"
 
 msgid "'Crime statistics by ward level for Wales'"
