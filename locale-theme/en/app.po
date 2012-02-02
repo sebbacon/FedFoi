@@ -91,3 +91,89 @@ msgid "Waiting for the public authority to complete an internal review of their 
 msgstr "Waiting for the federal agency to complete an internal review of their handling of the request"
 
 msgid "Response from a public authority"
+msgstr "Response from a federal agency"
+
+msgid "One public authority found"
+msgstr "One federal agency found"
+
+msgid "<a href=\"%s\">Are we missing a public authority?</a>."
+msgstr "<a href=\"%s\">Are we missing a federal agency?</a>."
+
+msgid "Follow this authority"
+msgstr "Follow this agency"
+
+msgid "There is %d person following this agency"
+msgid_plural "There are %d people following this agency"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "More about this authority"
+msgstr "More about this agency"
+
+msgid "Home page of authority"
+msgstr "Home page of agency"
+
+msgid "You can only request information about the environment from this authority."
+msgstr "You can only request information about the environment from this agency."
+
+msgid ""
+"Freedom of Information law does not apply to this authority, so you cannot make\n"
+"            a request to it."
+msgstr ""
+"Freedom of Information law does not apply to this agency, so you cannot make\n"
+"            a request to it."
+
+msgid "This authority no longer exists, so you cannot make a request to it."
+msgstr "This agency no longer exists, so you cannot make a request to it."
+
+msgid "For an unknown reason, it is not possible to make a request to this authority."
+msgstr "For an unknown reason, it is not possible to make a request to this agency."
+
+msgid "The search index is currently offline, so we can't show the Freedom of Information requests that have been made to this authority."
+msgstr "The search index is currently offline, so we can't show the Freedom of Information requests that have been made to this agency."
+
+msgid "{{site_name}} sends new requests to <strong>{{request_email}}</strong> for this authority."
+msgstr "{{site_name}} sends new requests to <strong>{{request_email}}</strong> for this agency."
+
+msgid "Freedom of Information law no longer applies to this authority.Follow up messages to existing requests are sent to "
+msgstr "Freedom of Information law no longer applies to this agency. Follow up messages to existing requests are sent to "
+
+msgid "We do not have a working request email address for this authority."
+msgstr "We do not have a working req uest email address for this agency."
+
+msgid "authorities"
+msgstr "agencies"
+
+msgid "messages from authorities"
+msgstr "messages from agencies"
+
+msgid "Search Freedom of Information requests, public authorities and users"
+msgstr "Search Freedom of Information requests, public agencies and users"
+
+msgid "Public authorities {{start_count}} to {{end_count}} of {{total_count}}"
+msgstr "Public agencies {{start_count}} to {{end_count}} of {{total_count}}"
+
+msgid "{{site_name}} covers requests to {{number_of_authorities}} authorities, including:"
+msgstr "{{site_name}} covers requests to {{number_of_authorities}} agencies, including:"
+
+msgid "Browse all authorities..."
+msgstr "Browse all agencies..."
+
+msgid "List of all authorities (CSV)"
+msgstr "List of all agencies (CSV)"
+
+msgid "Public authorities - {{description}}"
+msgstr "Public agencies - {{description}}"
+
+msgid ""
+"Make a new<br/>\n"
+"        <strong>Freedom <span>of</span><br/>\n"
+"        Information<br/>\n"
+"        request</strong>"
+msgstr ""
+"        <strong>FOIA <span>the</span><br/>\n"
+"        US Federal<br/>\n"
+"        Government</strong>"
+
+msgid "'Crime statistics by ward level for Wales'"
+msgstr "'Total money spent on cookies in 2009'"
