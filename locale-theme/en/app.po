@@ -53,7 +53,6 @@ msgstr ""
 msgid " Link to the information requested, if it is <strong>already available</strong> on the Internet. "
 msgstr ""
 
-#, fuzzy
 msgid " Offer better ways of <strong>wording the request</strong> to get the information. "
 msgstr "The agency only has a <strong>paper copy</strong> of the information."
 
@@ -81,7 +80,6 @@ msgstr ""
 msgid " when you send this message."
 msgstr ""
 
-#, fuzzy
 msgid "%d Freedom of Information request to %s"
 msgid_plural "%d Freedom of Information requests to %s"
 msgstr[0] "Search Freedom of Information requests, public agencies and users"
@@ -109,7 +107,6 @@ msgstr "'{{link_to_authority}}', a federal agency"
 msgid "'{{link_to_request}}', a request"
 msgstr ""
 
-#, fuzzy
 msgid "'{{link_to_user}}', a person"
 msgstr "'{{link_to_authority}}', a federal agency"
 
@@ -334,14 +331,12 @@ msgstr ""
 msgid "<strong>Thank</strong> the public authority or "
 msgstr "<strong>Thank</strong> the federal agency or "
 
-#, fuzzy
 msgid "<strong>did not have</strong> the information requested."
 msgstr "The federal agency does not have the information requested"
 
 msgid "A <strong>summary</strong> of the response if you have received it by post. "
 msgstr ""
 
-#, fuzzy
 msgid "A Freedom of Information request"
 msgstr "Search Freedom of Information requests, public agencies and users"
 
@@ -576,7 +571,6 @@ msgstr ""
 msgid "Confirm you want to be emailed about requests by '{{user_name}}'"
 msgstr ""
 
-#, fuzzy
 msgid "Confirm you want to be emailed about requests to '{{public_body_name}}'"
 msgstr "To be emailed about requests made using {{site_name}} to the federal agency '{{public_body_name}}'"
 
@@ -754,7 +748,6 @@ msgstr ""
 msgid "FOI requests by '{{user_name}}'"
 msgstr ""
 
-#, fuzzy
 msgid "FOI requests {{start_count}} to {{end_count}} of {{total_count}}"
 msgstr "Public agencies {{start_count}} to {{end_count}} of {{total_count}}"
 
@@ -803,7 +796,6 @@ msgstr ""
 msgid "Follow by email"
 msgstr ""
 
-#, fuzzy
 msgid "Follow these requests"
 msgstr "Follow this agency"
 
@@ -813,7 +805,6 @@ msgstr "Follow this agency"
 msgid "Follow this link to see the request:"
 msgstr ""
 
-#, fuzzy
 msgid "Follow this request"
 msgstr "Follow this agency"
 
@@ -823,7 +814,6 @@ msgstr ""
 msgid "Follow up message sent by requester"
 msgstr ""
 
-#, fuzzy
 msgid "Follow up messages to existing requests are sent to "
 msgstr "Freedom of Information law no longer applies to this agency. Follow up messages to existing requests are sent to "
 
@@ -848,7 +838,6 @@ msgstr ""
 msgid "Freedom of Information Act"
 msgstr ""
 
-#, fuzzy
 msgid ""
 "Freedom of Information law does not apply to this authority, so you cannot make\n"
 "                a request to it."
@@ -862,23 +851,18 @@ msgstr ""
 msgid "Freedom of Information law no longer applies to this authority.Follow up messages to existing requests are sent to "
 msgstr "Freedom of Information law no longer applies to this agency. Follow up messages to existing requests are sent to "
 
-#, fuzzy
 msgid "Freedom of Information requests made"
 msgstr "Search Freedom of Information requests, public agencies and users"
 
-#, fuzzy
 msgid "Freedom of Information requests made by this person"
 msgstr "Search Freedom of Information requests, public agencies and users"
 
-#, fuzzy
 msgid "Freedom of Information requests made by you"
 msgstr "Search Freedom of Information requests, public agencies and users"
 
-#, fuzzy
 msgid "Freedom of Information requests made using this site"
 msgstr "Search Freedom of Information requests, public agencies and users"
 
-#, fuzzy
 msgid "Freedom of information requests to"
 msgstr "Search Freedom of Information requests, public agencies and users"
 
@@ -1163,7 +1147,6 @@ msgstr ""
 msgid "Last authority viewed: "
 msgstr "Last agency viewed: "
 
-#, fuzzy
 msgid "Last request viewed: "
 msgstr "Last agency viewed: "
 
@@ -1245,7 +1228,6 @@ msgstr ""
 msgid "Name is already taken"
 msgstr ""
 
-#, fuzzy
 msgid "New Freedom of Information requests"
 msgstr "Search Freedom of Information requests, public agencies and users"
 
@@ -1294,7 +1276,6 @@ msgstr ""
 msgid "No similar requests found."
 msgstr ""
 
-#, fuzzy
 msgid "Nobody has made any Freedom of Information requests to {{public_body_name}} using this site yet."
 msgstr "Search Freedom of Information requests, public agencies and users"
 
@@ -1391,7 +1372,6 @@ msgstr ""
 msgid "Paste this link into emails, tweets, and anywhere else:"
 msgstr ""
 
-#, fuzzy
 msgid "People {{start_count}} to {{end_count}} of {{total_count}}"
 msgstr "Public agencies {{start_count}} to {{end_count}} of {{total_count}}"
 
@@ -1785,7 +1765,6 @@ msgstr ""
 msgid "Search the site to find what you were looking for."
 msgstr ""
 
-#, fuzzy
 msgid "Search within the %d Freedom of Information requests to %s"
 msgid_plural "Search within the %d Freedom of Information requests made to %s"
 msgstr[0] "Search Freedom of Information requests, public agencies and users"
@@ -1917,7 +1896,6 @@ msgstr ""
 msgid "Subscribe to blog"
 msgstr ""
 
-#, fuzzy
 msgid "Successful Freedom of Information requests"
 msgstr "Search Freedom of Information requests, public agencies and users"
 
@@ -2038,7 +2016,6 @@ msgstr ""
 msgid "The request was <strong>partially successful</strong>."
 msgstr ""
 
-#, fuzzy
 msgid "The request was <strong>refused</strong> by"
 msgstr "The request was refused by the federal agency"
 
@@ -2072,7 +2049,6 @@ msgstr ""
 msgid "The search index is currently offline, so we can't show the Freedom of Information requests that have been made to this authority."
 msgstr "The search index is currently offline, so we can't show the Freedom of Information requests that have been made to this agency."
 
-#, fuzzy
 msgid "The search index is currently offline, so we can't show the Freedom of Information requests this person has made."
 msgstr "The search index is currently offline, so we can't show the Freedom of Information requests that have been made to this agency."
 
@@ -2145,7 +2121,6 @@ msgstr ""
 msgid "There are {{count}} new annotations on your {{info_request}} request. Follow this link to see what they wrote."
 msgstr ""
 
-#, fuzzy
 msgid "There is %d person following this authority"
 msgid_plural "There are %d people following this authority"
 msgstr[0] "Follow this agency"
@@ -2176,7 +2151,6 @@ msgstr ""
 msgid "They are going to reply <strong>by post</strong>"
 msgstr ""
 
-#, fuzzy
 msgid "They do <strong>not have</strong> the information <small>(maybe they say who does)</small>"
 msgstr "The agency do <strong>not have</strong> the information <small>(maybe they say who does)"
 
@@ -2229,7 +2203,6 @@ msgstr ""
 msgid "This particular request is finished:"
 msgstr ""
 
-#, fuzzy
 msgid "This person has made no Freedom of Information requests using this site."
 msgstr "Search Freedom of Information requests, public agencies and users"
 
@@ -2533,7 +2506,6 @@ msgstr ""
 msgid "View FOI email address for {{public_body_name}}"
 msgstr ""
 
-#, fuzzy
 msgid "View Freedom of Information requests made by {{user_name}}:"
 msgstr "Search Freedom of Information requests, public agencies and users"
 
@@ -2552,7 +2524,6 @@ msgstr ""
 msgid "Waiting clarification."
 msgstr ""
 
-#, fuzzy
 msgid "Waiting for an <strong>internal review</strong> by {{public_body_link}} of their handling of this request."
 msgstr "Waiting for the federal agency to complete an internal review of their handling of the request"
 
@@ -2568,7 +2539,6 @@ msgstr ""
 msgid "We do not have a working request email address for this authority."
 msgstr "We do not have a working req uest email address for this agency."
 
-#, fuzzy
 msgid "We do not have a working {{law_used_full}} address for {{public_body_name}}."
 msgstr "We do not have a working req uest email address for this agency."
 
@@ -2703,7 +2673,6 @@ msgstr ""
 msgid "You have found a bug.  Please <a href=\"{{contact_url}}\">contact us</a> to tell us about the problem"
 msgstr ""
 
-#, fuzzy
 msgid "You have made no Freedom of Information requests using this site."
 msgstr "Search Freedom of Information requests, public agencies and users"
 
@@ -2791,7 +2760,6 @@ msgstr ""
 msgid "You've now cleared your profile photo"
 msgstr ""
 
-#, fuzzy
 msgid "Your %d Freedom of Information request"
 msgid_plural "Your %d Freedom of Information requests"
 msgstr[0] "Search Freedom of Information requests, public agencies and users"
@@ -3042,7 +3010,6 @@ msgstr ""
 msgid "messages from authorities"
 msgstr "messages from agencies"
 
-#, fuzzy
 msgid "messages from users"
 msgstr "messages from agencies"
 
@@ -3071,7 +3038,6 @@ msgstr ""
 msgid "profile photo"
 msgstr ""
 
-#, fuzzy
 msgid "public body"
 msgstr "A federal agency"
 
@@ -3212,7 +3178,6 @@ msgstr "{{site_name}} covers requests to {{number_of_authorities}} agencies, inc
 msgid "{{site_name}} sends new requests to <strong>{{request_email}}</strong> for this authority."
 msgstr "{{site_name}} sends new requests to <strong>{{request_email}}</strong> for this agency."
 
-#, fuzzy
 msgid "{{site_name}} users have made {{number_of_requests}} requests, including:"
 msgstr "{{site_name}} covers requests to {{number_of_authorities}} agencies, including:"
 
